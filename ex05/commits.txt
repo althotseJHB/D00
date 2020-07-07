@@ -1,0 +1,14 @@
+commit 10e063a780c5709a3a3e3fec055162d1466f9e3d (HEAD -> master, origin/master)
+Author: Alex Thotse <althotse@c4r1s5.wethinkcode.co.za>
+Date:   Tue Jul 7 12:37:41 2020 +0200
+
+    Day00 exercises
+
+commit 47d07e9c2fbbb2cbb181418762de906b0497b06b
+Author: Alex Thotse <althotse@c4r1s5.wethinkcode.co.za>
+Date:   Tue Jul 7 10:42:49 2020 +0200
+
+    This is a test commit
+
+
+
